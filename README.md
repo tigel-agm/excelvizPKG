@@ -179,3 +179,19 @@ Basic unit tests are located in the `tests/` directory and can be run using `pyt
 ```bash
 pytest tests/
 ```
+
+## Sample Outputs
+<img src="https://github.com/user-attachments/assets/519db37e-167a-4b94-b393-ebb54d04c633" alt="category_barplot" width="400">
+<img src="https://github.com/user-attachments/assets/93926bcd-4a4d-44ab-b667-6f0baba53f5e" alt="correlation_heatmap" width="400">
+<img src="https://github.com/user-attachments/assets/2b9b1735-2f66-4665-b24d-07ff9288e77b" alt="feedback_wordcloud" width="400">
+<img src="https://github.com/user-attachments/assets/8b992338-1491-47e9-b6d0-c2ed51a102cf" alt="profit_sales_scatter" width="400">
+<img src="https://github.com/user-attachments/assets/9a66d9e9-783c-4c70-8c5d-a8cfe2bfcecc" alt="region_pie" width="400">
+<img src="https://github.com/user-attachments/assets/b5c5b024-a7c5-4ed7-aa63-5d17215bdafa" alt="sales_over_time_lineplot" width="400">
+<img src="https://github.com/user-attachments/assets/ed41fc6f-30e5-4ddb-8617-197878eadbec" alt="sales_region_category_barplot" width="400">
+<img src="https://github.com/user-attachments/assets/a022eda9-65bc-4e88-9e2d-9616ebf592f6" alt="units_category_treemap" width="400">
+
+
+
+
+
+
